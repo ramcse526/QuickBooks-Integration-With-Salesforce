@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Access_Token__c</fullName>
+        <externalId>false</externalId>
+        <label>Access Token</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Realm_ID__c</fullName>
+        <description>Realm ID</description>
+        <externalId>false</externalId>
+        <label>Realm ID</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Refresh_Token__c</fullName>
+        <description>Refresh Token</description>
+        <externalId>false</externalId>
+        <label>Refresh Token</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <label>Quick Books Api Tokens</label>
+    <visibility>Public</visibility>
+</CustomObject>

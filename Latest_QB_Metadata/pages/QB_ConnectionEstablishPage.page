@@ -1,0 +1,2 @@
+<apex:page sidebar="false" showHeader="false" controller="QB_ConnectionEstablishCtrl" action="{!connectToQuickbooks}">
+</apex:page>
